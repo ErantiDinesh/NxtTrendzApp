@@ -1,0 +1,15 @@
+.cart-list {
+  padding-left: 0px;
+}
+
+.removeButton {
+  background-color: transparent;
+  border: none;
+  color: blue;
+  text-align: right;
+}
+
+.cashoutBox {
+  text-align: right;
+  margin: 15px;
+}
